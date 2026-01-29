@@ -2,7 +2,7 @@
 
 **Proyecto de Servicio Comunitario - Prevención de Drogas**
 
-## 🎮 [➡️ JUGAR AHORA](https://TU-URL-DE-RENDER.onrender.com)
+## 🎮 [➡️ JUGAR AHORA](https://game-neuro-defenders.onrender.com)
 
 > **Demo en vivo:** Haz click arriba para jugar directamente sin instalación
 
