@@ -26,7 +26,7 @@ Para ejecutar este juego necesitas tener instalado:
 1. Abre una terminal en la carpeta del proyecto.
 2. Ejecuta el comando:
    ```bash
-   python3 juego.py
+   python3 game.py
    ```
 3. El juego se abrirá automáticamente en tu navegador web en `http://localhost:8080`
 
