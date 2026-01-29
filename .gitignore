@@ -1,4 +1,9 @@
 __pycache__/
 *.pyc
+*.pyo
 .DS_Store
 .env
+ranking.json
+*.log
+# No ignorar la carpeta images 
+!images/
